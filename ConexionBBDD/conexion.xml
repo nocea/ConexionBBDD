@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conexion>
+	<server>localhost</server>
+	<port>5432</port>
+	<username>postgres</username>
+	<password>mariomanu7.</password>
+	<bd>gestorBibliotecaPersonal</bd>
+</conexion>
+
+
